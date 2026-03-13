@@ -415,6 +415,25 @@ img[src$=".svg"] {
 .back-top.visible { opacity: 0.7; }
 .back-top:hover { opacity: 1; }
 
+/* ── Language toggle ───────────────────────────────────── */
+.lang-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 1.2rem;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+}
+.lang-toggle a {
+    color: rgba(255,255,255,0.75);
+    text-decoration: none;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    border: 1px solid rgba(255,255,255,0.35);
+    transition: background 0.2s;
+}
+.lang-toggle a:hover { background: rgba(255,255,255,0.15); color: white; }
+.lang-toggle .active { color: white; font-weight: 700; border-color: white; }
+
 /* ── Footer ────────────────────────────────────────────── */
 .footer {
     text-align: center;
@@ -504,7 +523,11 @@ def build_html(chapters_html, toc_entries):
 </head>
 <body>
 
-<div class="cover">
+<div class="cover" style="position:relative">
+  <div class="lang-toggle">
+    <span class="active">EN</span> &nbsp;
+    <a href="index-nl.html">NL</a>
+  </div>
   <h1>Catania</h1>
   <div class="subtitle">A Travel Guide for Your Family</div>
   <div class="dates">14–20 March 2026 · Eastern Sicily</div>
