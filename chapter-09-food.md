@@ -393,13 +393,7 @@ and, often, the most memorable.
 
 ---
 
-`[INFOGRAPHIC: The Catania Food Map]`
-*A visual guide to the key dishes, laid out as a day: what you eat for
-breakfast (granita, brioche, espresso, arancino), what you eat at the market
-(octopus, ricci, fried things), what you eat at lunch (pasta alla Norma,
-caponata, sarde a beccafico), what you eat for dessert (cannolo, cassata,
-gelato, minnuzzi di Sant'Agata). Central illustration could be an arancino
-with everything radiating from it. Warm colours, illustrated style.*
+![Catania food map: what to eat and when](images/catania-food-map.svg)
 
 ---
 

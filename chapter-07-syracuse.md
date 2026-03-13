@@ -65,12 +65,6 @@ the world.
 ---
 
 ![Syracuse historical timeline from 734 BC to present](images/syracuse-timeline.svg)
-*A horizontal timeline running from 734 BC to the present, marking key
-moments: Greek founding, the Athenian siege, Archimedes (287–212 BC),
-Roman capture (212 BC), Byzantine period, Arab rule (878–1085 AD), Norman
-Norman reconquest, the 1693 earthquake and baroque rebuild, UNESCO listing
-(2005). Style: illustrated, warm colour palette, specific named events
-with short descriptions. Should feel like a story, not a history textbook.*
 
 ---
 
@@ -189,11 +183,6 @@ a legitimate use of 2,300 years of architectural history.
 ---
 
 ![The Ear of Dionysius cave, Syracuse](images/ear-of-dionysius.jpg)
-*Looking from inside the cave back toward the entrance — the tall narrow
-opening framing daylight against the dark interior, the curved limestone
-walls converging toward the apex. If possible: a figure in the foreground
-for scale, showing the height of the cave. The geometry of the space is
-what makes the photograph.*
 
 ---
 
@@ -213,12 +202,7 @@ walk for a moment of scale.
 
 ---
 
-`[STROLLER NOTE]` The Neapolis park has a mix of paved paths and gravel
-surfaces. The main routes between the theatre, the amphitheatre, and the
-quarry are manageable with a pushchair with care. The Ear of Dionysius
-cave itself is flat-floored and accessible, though you may want to fold
-the pushchair at the cave entrance to navigate the narrow interior more
-easily. A carrier for the toddler gives more flexibility throughout.
+> **Stroller note:** The Neapolis park has a mix of paved paths and gravel surfaces. The main routes between the theatre, the amphitheatre, and the quarry are manageable with a pushchair with care. The Ear of Dionysius cave itself is flat-floored and accessible, though you may want to fold the pushchair at the entrance to navigate the narrow interior. A carrier gives more flexibility throughout.
 
 ---
 
@@ -267,11 +251,6 @@ altar. Every surface is doing something different from a different century.
 ---
 
 ![Greek Doric columns embedded in the walls of Syracuse Cathedral](images/syracuse-cathedral-columns.jpg)
-*Two angles worth capturing: the exterior north wall showing the columns
-incorporated into the baroque masonry (best in morning light); and the
-interior of the nave showing the columns forming the arcade, with the baroque
-decoration above them. The contrast between the ancient stone and the later
-ornamentation is the visual story.*
 
 ---
 
@@ -332,11 +311,7 @@ Ortigia behind. This is the moment that the day has been building toward.
 
 ---
 
-![Ortigia island waterfront, Syracuse, at golden hour](images/ortigia-waterfront.jpg)
-*The eastern waterfront in late afternoon light — ideally including the
-water, a section of the baroque buildings on the edge of the island, and
-if possible the reflection of the light on the sea surface. Early evening
-light on pale limestone is exceptional.*
+![Ortigia island waterfront, Syracuse](images/ortigia-waterfront.jpg)
 
 ---
 

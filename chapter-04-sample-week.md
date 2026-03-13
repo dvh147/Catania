@@ -86,25 +86,25 @@ rain is an inconvenience, not a crisis.
 
 ---
 
-## Structural notes
+## How to Read This Chapter
 
-**Toddler nap logic** is built into every day — protecting the midday window
-(roughly 12:30–3pm) for something stationary. This week, the midday nap
-window coincides naturally with the worst of the afternoon rain. The universe
-is cooperating.
+Each day is built around two fixed priorities: protecting the midday window
+(roughly 12:30–3pm) for the toddler's nap, and getting outdoor activities
+done in the morning before the afternoon rain arrives. These two things
+happen to coincide almost perfectly this week, which is fortunate.
 
-**The car** stays parked on city days. On day trip days, you leave early
-(7:30am) to front-load the outdoor portions before the afternoon deteriorates.
+The car stays parked on city days. On day trips, you leave early — 7:30am
+as a rule — to front-load the outdoor portions before the weather turns.
 
-**The format for each day:**
+Each day entry is structured the same way:
 
 | | |
 |---|---|
-| **Morning** | Best hours — before the afternoon rain builds |
-| **Midday** | Nap window — strategic stillness (also: the rain arrives) |
-| **Afternoon** | Indoor or covered options when it's wet; outdoor if it clears |
+| **Morning** | Best hours — the outdoor window before rain builds |
+| **Midday** | Nap window — strategic stillness |
+| **Afternoon** | Covered or indoor options; outdoor if it has cleared |
 | **Evening** | Passeggiata, aperitivo, dinner at Sicilian time |
-| **Ratings** | Stroller friendliness / Budget / Exertion level |
+| **Ratings** | Stroller friendliness · Budget · Exertion level |
 
 ---
 
@@ -538,12 +538,6 @@ La Pescheria. Order it anyway.
 ---
 
 ![Week at a Glance: 14–20 March 2026, daily plans with rain forecast](images/week-at-a-glance.svg)
-*A seven-column calendar grid, Sat 14 to Fri 20 March. Each cell shows:
-date, plan, rain probability (shown as a weather icon: heavy cloud / light
-cloud / sun), and one-line strategy note. Thursday clearly marked as the
-sunny anomaly. The rain pattern (heavy Sun–Wed, clear Thu, rain again Fri)
-should be immediately readable at a glance. This is the page you check
-every morning before deciding whether to adjust.*
 
 ---
 

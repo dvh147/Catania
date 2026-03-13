@@ -60,11 +60,6 @@ and gold, darkness and light, catastrophe and ornament.
 ---
 
 ![Baroque church facade in black lava stone, Catania](images/catania-baroque-church.jpg)
-*The ideal shot shows carved baroque details in golden limestone set against
-black lava stone — ideally a church facade on a sunny morning with strong
-shadows. The Collegiata on Via Etnea or the Cathedral of Sant'Agata work well.
-This image should appear early in the chapter to establish the visual language
-of the city.*
 
 ---
 
@@ -100,10 +95,6 @@ for pointing at and shouting about.
 ---
 
 ![The elephant fountain at Piazza del Duomo, Catania](images/catania-elephant-fountain.jpg)
-*Shot 1: Close-up of the elephant's face — the black lava texture, the
-expression (it genuinely looks a bit confused). Shot 2: Wide shot of the
-whole piazza with the fountain in the foreground and the Cathedral of Sant'Agata
-behind, ideally at the golden hour when the stone glows warmest.*
 
 ---
 
@@ -155,9 +146,7 @@ challenging concept, delicious.
 
 ---
 
-`[STROLLER NOTE]` Piazza del Duomo is broad, flat, and paved — excellent
-pushchair territory. The cathedral interior has a smooth marble floor. This
-is one of the easiest areas of the city to navigate with a pram.
+> **Stroller note:** Piazza del Duomo is broad, flat, and paved — excellent pushchair territory. The cathedral interior has a smooth marble floor. This is one of the easiest areas of the city to navigate with a pram.
 
 ---
 
@@ -192,27 +181,14 @@ no indication of what happened there four hours earlier.
 ---
 
 ![La Pescheria fish market, Catania](images/catania-pescheria.jpg)
-*The iconic shot: a market stall with a full swordfish laid out, or a pile of
-colourful mixed fish on ice with a vendor in the background. Bright, saturated,
-slightly chaotic. Morning light works best — the market is shaded so artificial
-light from the stalls creates a useful warm glow.*
 
 ---
 
-`[STROLLER NOTE]` La Pescheria is down a flight of steps from street level
-(there is usually a ramp or alternative access to the side — worth locating
-before you descend). Inside, the passages between stalls are narrow and can be
-slippery with water and ice. A pushchair is manageable but you'll be navigating
-carefully. Consider a carrier for the market itself, leaving the pushchair
-folded at the top.
+> **Stroller note:** La Pescheria is down a flight of steps from street level (there is usually a ramp or alternative access to the side — worth locating before you descend). Inside, the passages between stalls are narrow and can be slippery with water and ice. A pushchair is manageable but you'll be navigating carefully. Consider a carrier for the market itself, leaving the pushchair folded at the top.
 
 ---
 
-`[BUDGET TIP]` The market is free to walk through and the spectacle costs
-nothing. If you want to eat here: vendors selling boiled octopus, sea urchin
-on bread, and fried snacks are operating along the edges of the market — prices
-are low and the food is extraordinary. This is one of the best-value food
-experiences in Sicily.
+> **Budget tip:** The market is free to walk through and the spectacle costs nothing. Vendors along the edges sell boiled octopus, sea urchin on bread, and fried snacks — prices are low and the food is extraordinary. This is one of the best-value food experiences in Sicily.
 
 ---
 
@@ -231,10 +207,6 @@ to take home, and seeing an undramatised version of daily Catanian life.
 ---
 
 ![La Pescheria and Via Plebiscito markets: hours, what to buy, tips](images/catania-markets.svg)
-*Two-column layout: La Pescheria on the left, Mercato di Via Plebiscito on the
-right. For each: opening hours, best time to visit, what to buy, what to eat
-there, stroller rating (amber/green), insider tip. Simple icon-based design,
-consistent with the rest of the guide.*
 
 ---
 
@@ -281,10 +253,7 @@ The composer of *Norma* and *La Sonnambula* was born a few streets away in
 
 ---
 
-`[STROLLER NOTE]` Via Etnea itself is mostly flat and has reasonable pavement
-width. The side streets — including Via dei Crociferi — are cobbled in lava
-stone, which can be uneven. A pushchair gets through, but it's not smooth
-going. Worth it.
+> **Stroller note:** Via Etnea itself is mostly flat and has reasonable pavement width. The side streets — including Via dei Crociferi — are cobbled in lava stone, which can be uneven. A pushchair gets through, but it's not smooth going. Worth it.
 
 ---
 
@@ -313,10 +282,7 @@ on top of each other for a very long time.
 
 ---
 
-`[BUDGET TIP]` The Roman theatre has a small entrance fee (a few euros for
-adults; young children usually free — confirm on arrival). The amphitheatre
-at Piazza Stesicoro is visible for free from street level; the exposed section
-is modest but the context is striking. You don't need to pay to understand it.
+> **Budget tip:** The Roman theatre has a small entrance fee (a few euros for adults; young children usually free — confirm on arrival). The amphitheatre at Piazza Stesicoro is visible for free from street level; the exposed section is modest but the context is striking. You don't need to pay to understand it.
 
 ---
 
@@ -347,10 +313,7 @@ late afternoon stop when the heat breaks.
 
 ---
 
-`[BUDGET TIP]` Museum entrance is free on certain days — usually the first
-Sunday of the month, and sometimes other days — though this changes, so check
-the Comune di Catania website or ask at the tourist office when you arrive.
-The courtyard is accessible independently of the museum.
+> **Budget tip:** Museum entrance is free on certain days — usually the first Sunday of the month and sometimes others, though this changes. Check the Comune di Catania website or ask at the tourist office on arrival. The courtyard is accessible independently of the museum.
 
 ---
 
@@ -365,6 +328,6 @@ The courtyard is accessible independently of the museum.
 
 ---
 
-*Next: Chapter 3 — Your Base: Practical Catania*
+*Next: Chapter 3 — Your Base — Practical Catania*
 
 ---

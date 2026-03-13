@@ -107,10 +107,6 @@ leave the pushchair where it is and put the toddler in the carrier.
 ---
 
 ![Catania historic centre stroller accessibility map](images/catania-stroller-map.svg)
-*The walking map from Chapter 3, now colour-coded: green streets (smooth,
-wide), amber streets (manageable with care), red areas (carrier recommended).
-Practical and honest — the most-used infographic in the guide. Should be
-designed for easy reading on a phone screen as well as printed.*
 
 ---
 
@@ -167,11 +163,6 @@ necessary. The weather on the mountain is its own system.
 ---
 
 ![Catania average monthly temperatures, March highlighted](images/catania-temperature-by-month.svg)
-*A simple chart showing average daytime highs and lows for each month of
-the year, with the best visiting periods for families highlighted. March
-shown as optimal: warm enough to be comfortable, not yet peak tourist season,
-blood orange season, manageable rainfall. Summer months flagged for heat
-and crowds; winter for occasional cold and closures.*
 
 ---
 
@@ -185,10 +176,11 @@ nothing on local transport during the city days.
 The main budget categories for a week:
 
 ### Accommodation
-You've sorted this already (historic centre). Typical nightly rates in
-Catania for a family room in a good B&B or small hotel: **€80–150/night**
-depending on quality and exact location. Higher-end apartments with kitchen
-access can offer better value for a family staying a week.
+You've sorted this already (waterfront district, a good position for the
+whole trip). Typical nightly rates in Catania for a well-placed apartment
+or family room: **€80–150/night** depending on quality. A self-catering
+apartment with kitchen access — as you have — offers better value for a
+group of five staying a full week.
 
 ### Food
 This is where Sicily rewards you most for not defaulting to tourist-facing
@@ -233,11 +225,6 @@ ask at each entrance.
 ---
 
 ![Daily budget ranges for a group of 5 in Catania](images/daily-budget.svg)
-*A visual breakdown of a typical family day (2 adults + toddler) in three
-scenarios: budget day (street food, free sights, picnic), mid-range day
-(trattoria lunch, one paid attraction, gelato), and splurge day (restaurant
-dinner, guided tour, the works). Simple bar chart or split-circle graphic.
-Should convey that even the "splurge" day is reasonable by European standards.*
 
 ---
 
@@ -266,12 +253,6 @@ bad light, or closed doors.
 ---
 
 ![Best time of day grid for major Catania-area attractions](images/best-time-of-day.svg)
-*A visual timeline: a 24-hour clock or horizontal time bar (6am to 10pm)
-with each major attraction or activity placed in its optimal window. Colour
-coded by type (market / culture / outdoor / eating). Could run as a single
-wide landscape infographic suitable for printing and consulting on the day.
-The toddler nap window (roughly 12:30–3pm) should be clearly marked as
-"strategic downtime" in a warm colour.*
 
 ---
 

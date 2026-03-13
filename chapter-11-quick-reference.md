@@ -169,48 +169,18 @@ you go out each day. No prose. Just the information, fast.*
 
 ---
 
-## 11.9 Notes Space
-
-*Use this page for addresses, recommendations from locals, things you found
-that aren't in the guide, restaurants to return to, the name of the bar that
-made the best granita, and anything else worth remembering.*
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ---
 
 *— End of Guide —*
 
 ---
 
-*This guide was written for a family of three — two adults and a toddler —
-travelling in Catania and the Sicilian east coast in March 2026. It is a
-personal document, not a commercial publication. The opinions are honest,
-the practical tips are specific, and the food advice should be treated as
-the considered position of someone who has thought about Sicilian arancino
-for an unreasonable amount of time.*
+*This guide was written for a family of five — two adults, two grandparents,
+and a toddler — travelling in Catania and the Sicilian east coast in March
+2026. It is a personal document, not a commercial publication. The opinions
+are honest, the practical tips are specific, and the food advice should be
+treated as the considered position of someone who has thought about Sicilian
+arancino for an unreasonable amount of time.*
 
 *Buon viaggio. Manciari bonu. 'Na Norma.*
 

@@ -8,13 +8,15 @@
 
 ---
 
-You are staying in or immediately next to the historic centre. This is the
-right call, and it changes the character of the whole trip. Everything in
-Chapter 2 is walkable from where you are sleeping. The fish market is a
-10-minute walk. Piazza del Duomo is probably 5. The best bars and pasticcerie
-are on your doorstep. You will not be relying on the car to do anything in
-the city itself — and that is a relief, because central Catania is not designed
-for people who want to drive through it in a relaxed manner.
+You are staying in the waterfront district, about 15–20 minutes on foot from
+the heart of the historic centre. This is the right call: you are close enough
+to walk everywhere that matters, far enough from the tourist scrum around the
+Duomo to feel like you are in a real neighbourhood. The fish market is about
+15 minutes on foot. Piazza del Duomo is 20 minutes at a comfortable pace with
+a pushchair. The best bars and pasticcerie are within that radius. You will not
+be relying on the car to do anything in the city itself — and that is a relief,
+because central Catania is not designed for people who want to drive through it
+in a relaxed manner.
 
 What follows is everything you need to know about operating out of your base
 before the day trips begin.
@@ -29,9 +31,9 @@ Everything of note is either on this street or within a short walk of it.
 **Piazza del Duomo** — the elephant fountain — is your mental anchor point.
 When in doubt, navigate back to the elephant and reorient.
 
-Key walking distances from the historic centre (roughly):
+Key walking distances from Piazza del Duomo (roughly):
 
-| Destination | On foot |
+| Destination | On foot from the piazza |
 |---|---|
 | La Pescheria fish market | 3–5 min |
 | Castello Ursino | 15 min |
@@ -39,6 +41,8 @@ Key walking distances from the historic centre (roughly):
 | Benedictine Monastery | 10 min |
 | Villa Bellini (public park) | 15 min |
 | Best gelato on Via Etnea | 8 min |
+
+From your apartment on Via Cristoforo Colombo, add roughly 15–20 minutes to each of these, heading north.
 
 The city is largely flat in the centre, with some gentle slopes northward
 along Via Etnea. The main hazard underfoot is the lava-stone cobbling in the
@@ -48,11 +52,6 @@ with sensible shoes rather than the sandals you optimistically packed.
 ---
 
 ![Walking map of Catania historic centre](images/historic-centre-walking-map.svg)
-*A clean illustrated map centred on Piazza del Duomo, with walking-time rings
-(5 min / 10 min / 15 min) and key landmarks marked. No driving routes — this
-is a pedestrian map. Landmarks: La Pescheria, Cathedral, Via Etnea, Roman
-Theatre, Benedictine Monastery, Castello Ursino, Villa Bellini, best bar for
-granita. Style: warm, illustrated, not a Google Maps screenshot.*
 
 ---
 
@@ -104,10 +103,6 @@ The key rules:
 ---
 
 ![ZTL restricted traffic zone map for central Catania](images/catania-ztl-map.svg)
-*A simple diagram showing the ZTL boundary in red, camera positions marked,
-and green approach routes from outside the zone toward the nearest car parks.
-Should include a clear callout: "Stay outside the red line by car." Not a
-complex map — clarity is more important than completeness.*
 
 ---
 
@@ -244,10 +239,6 @@ become a museum morning + Ortigia afternoon. Actually a great combination.
 ---
 
 ![Rainy day decision tree: what to do based on rain intensity and nap window](images/rainy-day-decision-tree.svg)
-*A simple flowchart: Is it light rain or heavy? Is the toddler awake or in
-nap window? Do you want to stay in the city or drive? Each path leads to 2–3
-specific recommendations. Fun, slightly tongue-in-cheek style — not a grim
-emergency manual.*
 
 ---
 
@@ -310,12 +301,9 @@ Use both, depending on terrain.
 ---
 
 ![Catania historic centre stroller accessibility map](images/catania-stroller-map.svg)
-*Same base map as Section 3.1, now colour-coded: green streets, amber streets,
-red streets. Clear, simple, honest. The most genuinely practical infographic
-in the guide.*
 
 ---
 
-*Next: Chapter 4 — Day by Day: A Sample Week*
+*Next: Chapter 4 — Day by Day — Your Week*
 
 ---

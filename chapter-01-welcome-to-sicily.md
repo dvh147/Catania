@@ -41,11 +41,6 @@ is wrong.
 ---
 
 ![Sicily key facts: area, population, Etna, coastline, provinces](images/sicily-at-a-glance.svg)
-*A clean stats panel alongside a silhouette map of Sicily overlaid on a
-western European outline for scale. Stats to include: area (25,711 km²),
-coastline (1,484 km), population (5 million), highest point (Etna, 3,357 m),
-UNESCO sites (5), neighbouring countries visible on a clear day (Tunisia,
-Malta, mainland Italy). Style: bold numbers, simple icons, warm colour palette.*
 
 ---
 
@@ -218,10 +213,6 @@ excellent Norman architecture can replicate.
 ---
 
 ![Sicily's eastern coast showing Catania and Mount Etna](images/sicily-east-coast.jpg)
-*Should show: Catania's position on the coast with Etna visible behind it,
-and annotated distances to the main day trips — Etna (30 km), Taormina (50 km),
-Syracuse (60 km), Aci Trezza (15 km). Clean graphic style, could be a
-custom illustrated map rather than a satellite image.*
 
 ---
 
@@ -236,6 +227,6 @@ custom illustrated map rather than a satellite image.*
 
 ---
 
-*Next: Chapter 2 — Catania: City of Fire & Baroque*
+*Next: Chapter 2 — Catania — City of Fire & Baroque*
 
 ---
