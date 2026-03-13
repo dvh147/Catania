@@ -8,6 +8,8 @@ Usage: python3 build-book.py
 Output: index.html
 """
 
+import base64
+import mimetypes
 import re
 import sys
 from pathlib import Path
@@ -540,6 +542,32 @@ window.addEventListener('scroll', () => {{
 </html>"""
 
 
+# ── Image embedding ──────────────────────────────────────────────────────────
+
+def embed_images(html, base_dir):
+    """Replace all img src="images/..." with base64 data URIs."""
+    def replacer(m):
+        src = m.group(1)
+        rest = m.group(2)
+        img_path = base_dir / src
+        if not img_path.exists():
+            print(f"  [warn] missing image: {src}")
+            return m.group(0)
+        suffix = img_path.suffix.lower()
+        # SVG files can be inlined as text (more efficient than base64)
+        if suffix == ".svg":
+            mime = "image/svg+xml"
+        else:
+            mime, _ = mimetypes.guess_type(str(img_path))
+            if not mime:
+                mime = "application/octet-stream"
+        data = base64.b64encode(img_path.read_bytes()).decode("ascii")
+        return f'<img src="data:{mime};base64,{data}"{rest}'
+
+    # Match src="images/..." — capture src value and rest of attributes up to >
+    return re.sub(r'<img src="([^"]+)"([^>]*>)', replacer, html)
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
@@ -560,8 +588,14 @@ def main():
     combined = '\n\n'.join(all_html)
     page = build_html(combined, all_toc)
 
+    # Embed all images as base64 data URIs so the file is self-contained
+    base_dir = Path(".")
+    print("  Embedding images...")
+    page = embed_images(page, base_dir)
+
     Path("index.html").write_text(page, encoding="utf-8")
-    print(f"\n  Built: index.html ({len(page)//1024}KB)")
+    size_kb = len(page.encode("utf-8")) // 1024
+    print(f"\n  Built: index.html ({size_kb}KB, fully self-contained)")
     print("  Open in browser or deploy to GitHub Pages.")
 
 
