@@ -24,6 +24,19 @@ district, between the historic centre and the port. Piazza del Duomo is
 about 15–20 minutes on foot heading north. The airport is 10 minutes by
 car heading south. A practical base in all directions.
 
+**Your group:** 2 adults + 2 grandparents + 1 toddler — five people,
+all travelling together, all days. The grandparents are comfortable walkers
+but prefer flat terrain and a paced rhythm — no forced marches, no long
+staircase climbs, no hours on uneven volcanic rock. This is completely
+workable and is already woven into how each day below is structured.
+
+**One logistical flag — the car:** Five people plus luggage for a full week
+is tight in a standard 5-seater rental car. If the car booked is a compact
+or mid-size, you may want to upgrade to a larger vehicle (estate/MPV) before
+the trip — day trips will involve the full group plus everything needed for
+a toddler and a day out. Worth confirming this with the rental company now
+rather than at the pickup desk.
+
 **Your actual days:**
 
 | Date | Day | Status |
@@ -216,12 +229,21 @@ now, while the morning is on your side:
   one end is audible at the other. Take the toddler to the far end and
   whisper. This is a legitimate use of 2,300 years of architecture.
 
+**A note for the grandparents in the Neapolis park:** the main paths between
+the Greek theatre, the Roman amphitheatre, and the Ear of Dionysius are gravel
+— uneven in places, but walkable at a measured pace with good shoes. The Greek
+theatre seating is cut stone tiers with no handrail; going partway up is fine
+and gives the view. The Ear of Dionysius cave is flat-floored and easy.
+The **Paolo Orsi Museum** alternative (see below) is entirely indoors and
+flat — a good fallback if the park terrain is too much in the wet.
+
 Aim to be done with the park by noon, before the afternoon rain builds.
 
 **If it's already raining heavily on arrival:** go directly to the **Paolo
 Orsi Archaeological Museum** instead — one of the finest archaeological
 museums in Europe, entirely indoors, immediately adjacent to the park entrance.
 Covers the same ground as the park through extraordinary objects. Allow 2 hours.
+Also the right call if the grandparents find the park terrain difficult in the wet.
 
 ### Midday
 Cross to **Ortigia** — 10 minutes by car. Lunch in the streets behind
@@ -283,6 +305,15 @@ A18 motorway north — 50 minutes. Park at **Mazzarò** (lower car parks at
 the base of the cliff), take the **funivia** cable car up. The cable car
 in rain: perfectly fine, and the views going up through mist have a drama
 of their own.
+
+**A note for the grandparents in Taormina:** the cable car up is fine for
+everyone. At the top, the **Corso Umberto** is flat, smooth, and entirely
+comfortable. The approach into the Greek theatre involves a short walk on
+uneven ancient stone, with some steps. Entirely manageable at a steady pace;
+no need to rush. The upper seating tiers (the best viewpoint) involve a
+further climb — the grandparents can sit at the lower orchestra level and
+still see the stage, the sea arch, and the Etna backdrop. The **Piazza IX
+Aprile** terrace and **Villa Comunale** gardens are both flat and easy.
 
 **Teatro Greco-Romano** first, immediately, while the morning is on your side.
 The theatre opens at 9am. In rain, the tour groups are smaller, the space
@@ -383,54 +414,91 @@ only clear day of the week. Etna gets it. Every other day trip was chosen
 partly for its rain-resilience, specifically to save this day for the
 volcano. Go.
 
+### Etna with the full group — an honest plan
+
+The classic Etna experience — cable car to 2,500m, then 4x4 jeep to 2,900m
+on raw lava terrain, then a walk across volcanic rock to the crater viewing
+area — is a specific kind of physically demanding. The jeep ride is rough.
+The terrain above the cable car is uneven and wind-exposed. For grandparents
+who prefer a paced, flat day, the upper mountain is too much.
+
+The good news: **Etna is extraordinary at multiple altitudes**, and the
+lower slopes — specifically the lava fields accessible by road around
+1,500–1,800m — are dramatic, strange, and entirely achievable for everyone
+in the group. Here is how to structure the day so that nobody misses out:
+
+**Option A — Split approach (recommended):**
+Drive to **Rifugio Sapienza** (1,900m, the cable car base) together. The
+grandparents have coffee at the Rifugio Sapienza restaurant — which has
+terrace views over the lava landscape and is entirely comfortable — while
+the younger adults take the toddler up via cable car. The cable car ride
+itself (15 minutes each way) offers views of the upper mountain and the
+Sicilian coastline below; the summit zone (from the upper station, it's
+a short walk or optional jeep ride) is the toddler's carrier experience,
+not the grandparents'. You are gone for 2–3 hours maximum; the grandparents
+have a front-row seat to the lava landscape and the mountain scenery from
+the Rifugio terrace. Reunite for lunch.
+
+This only works if "full group always together" allows for 2–3 hours in
+the same general location but not the same activity. If so, it is the
+right answer.
+
+**Option B — Lava fields walk for everyone:**
+Drive up the road to Rifugio Sapienza but skip the cable car entirely.
+Instead, park and walk into the **2001 and 2002 lava flows** on the south
+slope — accessible from the road, on relatively level lava terrain, free,
+and still genuinely extraordinary. The scale of what you're walking on
+(frozen rivers of black rock, kilometres of lava that moved down this slope
+within days) is impressive at any altitude. The views from 1,800m on a
+clear day already include the Sicilian coastline and the Strait of Messina.
+This is absolutely an Etna day — just not the summit crater version. And
+it works for everyone, toddler in the pushchair on the flatter lava tracks,
+grandparents walking at their own pace.
+
+**Our recommendation:** Option A if grandparents are comfortable with
+the 2–3 hours at the Rifugio terrace. Option B if you want to genuinely
+stay together throughout. Either way, everyone arrives at the same lunch
+table having seen Etna in its full clear-day glory.
+
 ### Morning (leave the apartment by 7:30am)
-Drive south from the apartment — the airport direction — and then inland
-through **Nicolosi** to **Rifugio Sapienza** on the south slope of Etna.
-45 minutes from Via Cristoforo Colombo. The road through Nicolosi is
-winding and slow in the final section; give it time.
+Drive south — airport direction — then inland through **Nicolosi** to
+Rifugio Sapienza. 45 minutes from Via Cristoforo Colombo. The road through
+Nicolosi is winding and slow in the final section.
 
-The cable car runs from Rifugio Sapienza (1,900m) to approximately 2,500m.
-From the upper station, 4x4 jeep transfers go up to 2,900m, close to the
-summit craters. **Book the cable car online in advance** — the first clear
-day after a week of rain may see a rush of people who postponed.
+**Book the cable car in advance if going up** — the first clear day after
+a rainy week may see a rush. Check [funiviaetna.com](https://www.funiviaetna.com)
+for tickets and opening status.
 
-See Chapter 5 for the full account of what you'll find up there. The short
-version: layers on everyone including the toddler (it will be significantly
-colder than Catania, possibly 3–5°C at 2,900m even on a warm day at sea level),
-the toddler in the carrier from the cable car upward, the smell of sulphur,
-the lava landscape, the view over the entire eastern coast of Sicily on a
-clear day.
-
-**Partly sunny at mountain level means: go as early as possible.** Clouds
-can build on the summit even on generally clear days, and the mornings are
-always the most reliable window. An early start at the cable car means
-you're at the summit zone by 9am and descending by noon, before any afternoon
-cloud development.
+Layers on everyone — the mountain is significantly colder than Catania.
+At 1,900m (Rifugio Sapienza level) it could easily be 6–8°C with wind.
+At 2,500m (cable car top), colder still. A warm jacket for every person,
+including the toddler.
 
 ### Midday
-Back down by cable car by noon. Lunch at **Zafferana Etnea** on the way
-back — the honey capital on the eastern slope, with good local trattorias
-and a pleasant village to walk briefly after the drama of the mountain.
-Nap in the car on the drive home.
+Reunite at Rifugio Sapienza by noon, then drive down to **Zafferana Etnea**
+on the eastern slope for lunch — local trattorias, the honey the village
+is famous for, a pleasant stop before the drive back. Nap in the car on
+the return.
 
 ### Afternoon
-Back at the apartment by 2:30–3pm. Keep it easy. Walk along the waterfront
-from the apartment — 10 minutes of sea air after a morning on a volcano.
-Gelato. Nothing that requires thought.
+Back at the apartment by 2:30–3pm. Keep it easy. The clear weather is an
+invitation to walk along the waterfront — the volcano visible to the north
+on a day like this from the seafront near the apartment, a completely
+different view of it from sea level.
 
-**This is also your last full evening.** Use it well: the farewell dinner
-tonight, at a restaurant you've identified during the week as the right
-place for the occasion. A full Sicilian meal — antipasto, primo, secondo,
-dolce. A bottle of Etna Rosso, which you've earned both literally and
-thematically. Cannoli at the end, filled to order, the shell shattering.
+**This is your last full evening.** The farewell dinner tonight, at a
+restaurant you've identified during the week as the right place for this
+group, for this occasion. A full Sicilian meal — antipasto, primo, secondo,
+dolce. A bottle of Etna Rosso, earned literally and thematically. Cannoli
+at the end, filled to order, the shell shattering.
 
-Then the passeggiata. One last drift up toward the Piazza del Duomo and
-back. The volcano in the dark — and after today you know exactly what's up
-there. Go to bed late. It's your last proper night.
+Then the passeggiata. Via Etnea, the elephant fountain, the volcano in the
+dark — and today you know exactly what's up there. Go to bed late.
+It's your last proper night.
 
 | Stroller | Budget | Exertion |
 |---|---|---|
-| ★★☆☆☆ Carrier essential above cable car; pushchair stays at base | €€€ — cable car + jeep + lunch out | High — altitude, terrain, cold — worth every bit of it |
+| ★★★☆☆ Option A: carrier for cable car sections; Option B: pushchair workable on lava tracks | €€€ cable car / € lava fields walk | Option A: high for the younger adults, low for grandparents at Rifugio / Option B: low-medium for everyone |
 
 ---
 
@@ -488,6 +556,15 @@ every morning before deciding whether to adjust.*
 > Sunday is the deep Catania day — the city's indoor riches are substantial,
 > and a rainy Sunday in the fish market and the Benedictine Monastery is a
 > genuinely excellent day.
+>
+> **On the grandparents throughout:** the flattest and most comfortable
+> days for them are Sunday in Catania (piazza, cathedral, monastery — all
+> manageable), Monday in Ortigia (the smoothest streets of any day trip),
+> and Wednesday on the coast (flat waterfront promenade). Taormina
+> involves some uneven stone at the theatre — manageable, not demanding.
+> Etna is the day that needs the most thought, and the split approach
+> (Rifugio Sapienza terrace + cable car for the younger adults) is the
+> honest solution.
 >
 > Check the forecast daily. The percentages will shift. But the logic holds:
 > protect Thursday for Etna no matter what, and let everything else flex
