@@ -751,57 +751,57 @@ INFOGRAPHICS = {
 PHOTOS = {
     "`[PHOTO: Baroque church facade in Catania]`": {
         "file":  "catania-baroque-church.jpg",
-        "query": "Catania baroque church lava stone Sicily",
+        "query": "Chiesa Catania barocco",
         "alt":   "Baroque church facade in black lava stone, Catania",
     },
     "`[PHOTO: The elephant fountain, two shots]`": {
         "file":  "catania-elephant-fountain.jpg",
-        "query": "Fontana dell'elefante Catania Piazza Duomo",
+        "query": "Fontana dell'Elefante Catania",
         "alt":   "The elephant fountain at Piazza del Duomo, Catania",
     },
     "`[PHOTO: La Pescheria market stall]`": {
         "file":  "catania-pescheria.jpg",
-        "query": "Catania Pescheria fish market stall Sicily",
+        "query": "Pescheria Catania mercato pesce",
         "alt":   "La Pescheria fish market, Catania",
     },
     "`[PHOTO: Three shots from Etna]`": {
         "file":  "etna-summit.jpg",
-        "query": "Mount Etna summit crater lava flow Sicily",
+        "query": "Etna eruzione cratere lava",
         "alt":   "Mount Etna: lava fields and summit craters",
     },
     "`[PHOTO: Teatro Greco-Romano, Taormina]`": {
         "file":  "taormina-teatro-greco.jpg",
-        "query": "Taormina Greek theatre Teatro Greco Etna sea",
+        "query": "Teatro antico Taormina",
         "alt":   "The Teatro Greco-Romano at Taormina with Etna in the background",
     },
     "`[PHOTO: The Ear of Dionysius]`": {
         "file":  "ear-of-dionysius.jpg",
-        "query": "Ear of Dionysius Latomia Syracuse cave",
+        "query": "Orecchio di Dionisio Siracusa",
         "alt":   "The Ear of Dionysius cave, Syracuse",
     },
     "`[PHOTO: Doric columns of the Syracuse Cathedral]`": {
         "file":  "syracuse-cathedral-columns.jpg",
-        "query": "Syracuse Cathedral Doric columns Greek temple inside",
+        "query": "Duomo Siracusa colonne doriche",
         "alt":   "Greek Doric columns embedded in the walls of Syracuse Cathedral",
     },
     "`[PHOTO: Ortigia waterfront at the golden hour]`": {
         "file":  "ortigia-waterfront.jpg",
-        "query": "Ortigia island waterfront Syracuse golden hour",
+        "query": "Ortigia Siracusa lungomare tramonto",
         "alt":   "Ortigia island waterfront, Syracuse, at golden hour",
     },
     "`[PHOTO: The Faraglioni di Aci Trezza]`": {
         "file":  "aci-trezza-faraglioni.jpg",
-        "query": "Faraglioni Aci Trezza sea stacks cyclops Sicily",
+        "query": "Faraglioni Aci Trezza Ciclopi",
         "alt":   "The Faraglioni sea stacks at Aci Trezza",
     },
     "`[PHOTO: Castello di Aci Castello]`": {
         "file":  "aci-castello.jpg",
-        "query": "Aci Castello Norman castle basalt sea Sicily",
+        "query": "Castello Aci Castello Sicilia",
         "alt":   "Aci Castello: the Norman castle on basalt rock over the sea",
     },
     "`[PHOTO: Map or aerial view of Sicily's east coast]`": {
         "file":  "sicily-east-coast.jpg",
-        "query": "Sicily east coast aerial Catania Etna satellite",
+        "query": "Sicilia costa orientale Catania Etna",
         "alt":   "Sicily's eastern coast showing Catania and Mount Etna",
     },
 }
@@ -817,7 +817,7 @@ def _api_get(params):
     with urllib.request.urlopen(req, timeout=12) as r:
         return json.loads(r.read())
 
-def wikimedia_search(query, limit=6):
+def wikimedia_search(query, limit=12):
     try:
         data = _api_get({"action":"query","list":"search","srsearch":query,
                          "srnamespace":"6","srlimit":limit,"format":"json"})
