@@ -106,7 +106,7 @@ leave the pushchair where it is and put the toddler in the carrier.
 
 ---
 
-`[INFOGRAPHIC: Historic Centre Stroller Map]`
+![Catania historic centre stroller accessibility map](images/catania-stroller-map.svg)
 *The walking map from Chapter 3, now colour-coded: green streets (smooth,
 wide), amber streets (manageable with care), red areas (carrier recommended).
 Practical and honest — the most-used infographic in the guide. Should be
@@ -166,7 +166,7 @@ necessary. The weather on the mountain is its own system.
 
 ---
 
-`[INFOGRAPHIC: Catania Temperature Guide by Month]`
+![Catania average monthly temperatures, March highlighted](images/catania-temperature-by-month.svg)
 *A simple chart showing average daytime highs and lows for each month of
 the year, with the best visiting periods for families highlighted. March
 shown as optimal: warm enough to be comfortable, not yet peak tourist season,
@@ -232,7 +232,7 @@ ask at each entrance.
 
 ---
 
-`[INFOGRAPHIC: Daily Budget Breakdown]`
+![Daily budget ranges for a group of 5 in Catania](images/daily-budget.svg)
 *A visual breakdown of a typical family day (2 adults + toddler) in three
 scenarios: budget day (street food, free sights, picnic), mid-range day
 (trattoria lunch, one paid attraction, gelato), and splurge day (restaurant
@@ -265,7 +265,7 @@ bad light, or closed doors.
 
 ---
 
-`[INFOGRAPHIC: Best Time of Day for Each Attraction]`
+![Best time of day grid for major Catania-area attractions](images/best-time-of-day.svg)
 *A visual timeline: a 24-hour clock or horizontal time bar (6am to 10pm)
 with each major attraction or activity placed in its optimal window. Colour
 coded by type (market / culture / outdoor / eating). Could run as a single

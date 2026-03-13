@@ -129,7 +129,7 @@ arancino territory. Find the place with a queue of people in work clothes.
 
 ---
 
-`[INFOGRAPHIC: Arancino vs Arancina — The Great Debate]`
+![Arancino vs Arancina: the Catania/Palermo naming debate explained](images/arancino-vs-arancina.svg)
 *A fun illustrated spread: on the left, the Catanian arancino — conical shape,
 labelled with the Etna comparison, masculine article, "al ragù" filling. On the
 right, the Palermitan arancina — round shape, feminine article, different filling

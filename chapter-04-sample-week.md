@@ -537,7 +537,7 @@ La Pescheria. Order it anyway.
 
 ---
 
-`[INFOGRAPHIC: The Week at a Glance — Real Forecast Edition]`
+![Week at a Glance: 14–20 March 2026, daily plans with rain forecast](images/week-at-a-glance.svg)
 *A seven-column calendar grid, Sat 14 to Fri 20 March. Each cell shows:
 date, plan, rain probability (shown as a weather icon: heavy cloud / light
 cloud / sun), and one-line strategy note. Thursday clearly marked as the

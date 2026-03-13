@@ -64,7 +64,7 @@ the world.
 
 ---
 
-`[INFOGRAPHIC: Syracuse Through the Ages — A Timeline]`
+![Syracuse historical timeline from 734 BC to present](images/syracuse-timeline.svg)
 *A horizontal timeline running from 734 BC to the present, marking key
 moments: Greek founding, the Athenian siege, Archimedes (287–212 BC),
 Roman capture (212 BC), Byzantine period, Arab rule (878–1085 AD), Norman
@@ -188,7 +188,7 @@ a legitimate use of 2,300 years of architectural history.
 
 ---
 
-`[PHOTO: The Ear of Dionysius]`
+![The Ear of Dionysius cave, Syracuse](images/ear-of-dionysius.jpg)
 *Looking from inside the cave back toward the entrance — the tall narrow
 opening framing daylight against the dark interior, the curved limestone
 walls converging toward the apex. If possible: a figure in the foreground
@@ -266,7 +266,7 @@ altar. Every surface is doing something different from a different century.
 
 ---
 
-`[PHOTO: Doric columns of the Syracuse Cathedral]`
+![Greek Doric columns embedded in the walls of Syracuse Cathedral](images/syracuse-cathedral-columns.jpg)
 *Two angles worth capturing: the exterior north wall showing the columns
 incorporated into the baroque masonry (best in morning light); and the
 interior of the nave showing the columns forming the arcade, with the baroque
@@ -332,7 +332,7 @@ Ortigia behind. This is the moment that the day has been building toward.
 
 ---
 
-`[PHOTO: Ortigia waterfront at the golden hour]`
+![Ortigia island waterfront, Syracuse, at golden hour](images/ortigia-waterfront.jpg)
 *The eastern waterfront in late afternoon light — ideally including the
 water, a section of the baroque buildings on the edge of the island, and
 if possible the reflection of the light on the sea surface. Early evening

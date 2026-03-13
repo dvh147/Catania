@@ -54,7 +54,7 @@ so distinctive. As you climb, the vegetation thins and then stops. Above
 
 ---
 
-`[INFOGRAPHIC: Etna Cross-Section]`
+![Mount Etna altitude cross-section, from Catania to summit craters](images/etna-cross-section.svg)
 *A clean illustrated cross-section of the volcano from base to summit,
 showing altitude bands and what exists at each level: lower slopes
 (citrus, vines, villages), mid slopes (pine forest, ski runs, lava
@@ -223,7 +223,7 @@ the view is not something that photographs convey. It just isn't.
 
 ---
 
-`[PHOTO: Three shots from Etna]`
+![Mount Etna: lava fields and summit craters](images/etna-summit.jpg)
 *Shot 1: A boot or hand on lava rock to give scale — ideally showing the
 texture of the ropy lava (*pahoehoe* type) up close. Shot 2: Steam rising
 from a fumarole, backlit if possible, with the blue sky above. Shot 3: The

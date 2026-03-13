@@ -55,7 +55,7 @@ to them and not somewhere else.
 
 ---
 
-`[PHOTO: The Faraglioni di Aci Trezza]`
+![The Faraglioni sea stacks at Aci Trezza](images/aci-trezza-faraglioni.jpg)
 *Looking from the village harbour or the waterfront toward the sea stacks —
 Polyphemus's rocks in the foreground, the sea between, the rocks rising.
 Best in morning light (east-facing coast). Aim for a low angle from the
@@ -140,7 +140,7 @@ below, with the sea behind it, is a very good use of 20 minutes.
 
 ---
 
-`[PHOTO: Castello di Aci Castello]`
+![Aci Castello: the Norman castle on basalt rock over the sea](images/aci-castello.jpg)
 *The castle from the sea side, showing the full basalt rock platform with
 the Norman tower above. Best angle is from the waterfront south of the
 castle, looking north — this puts the rock and castle in profile against
@@ -184,7 +184,7 @@ anyone a beach holiday in March and then be surprised by the sea temperature.
 
 ---
 
-`[INFOGRAPHIC: The Cyclopean Coast — What to Do Where]`
+![Cyclopean coast route: Catania → Aci Castello → Aci Trezza → Acireale](images/cyclopean-coast.svg)
 *A simple illustrated map of the 20km coastal strip from Catania northward
 through Aci Castello, Aci Trezza, and Fondachello/Mascali. Each location
 marked with icons: boat trips (Aci Trezza), castle (Aci Castello), sandy

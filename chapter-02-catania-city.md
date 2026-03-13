@@ -59,7 +59,7 @@ and gold, darkness and light, catastrophe and ornament.
 
 ---
 
-`[PHOTO: Baroque church facade in Catania]`
+![Baroque church facade in black lava stone, Catania](images/catania-baroque-church.jpg)
 *The ideal shot shows carved baroque details in golden limestone set against
 black lava stone — ideally a church facade on a sunny morning with strong
 shadows. The Collegiata on Via Etnea or the Cathedral of Sant'Agata work well.
@@ -99,7 +99,7 @@ for pointing at and shouting about.
 
 ---
 
-`[PHOTO: The elephant fountain, two shots]`
+![The elephant fountain at Piazza del Duomo, Catania](images/catania-elephant-fountain.jpg)
 *Shot 1: Close-up of the elephant's face — the black lava texture, the
 expression (it genuinely looks a bit confused). Shot 2: Wide shot of the
 whole piazza with the fountain in the foreground and the Cathedral of Sant'Agata
@@ -191,7 +191,7 @@ no indication of what happened there four hours earlier.
 
 ---
 
-`[PHOTO: La Pescheria market stall]`
+![La Pescheria fish market, Catania](images/catania-pescheria.jpg)
 *The iconic shot: a market stall with a full swordfish laid out, or a pile of
 colourful mixed fish on ice with a vendor in the background. Bright, saturated,
 slightly chaotic. Morning light works best — the market is shaded so artificial
@@ -230,7 +230,7 @@ to take home, and seeing an undramatised version of daily Catanian life.
 
 ---
 
-`[INFOGRAPHIC: The Markets of Catania]`
+![La Pescheria and Via Plebiscito markets: hours, what to buy, tips](images/catania-markets.svg)
 *Two-column layout: La Pescheria on the left, Mercato di Via Plebiscito on the
 right. For each: opening hours, best time to visit, what to buy, what to eat
 there, stroller rating (amber/green), insider tip. Simple icon-based design,

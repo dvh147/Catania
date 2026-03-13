@@ -54,7 +54,7 @@ the sea and the mountain beyond, it still absolutely works.
 
 ---
 
-`[PHOTO: Teatro Greco-Romano, Taormina]`
+![The Teatro Greco-Romano at Taormina with Etna in the background](images/taormina-teatro-greco.jpg)
 *The definitive shot: from the upper seating tiers looking toward the stage,
 with the sea visible through the stage arch and Etna in the background (ideally
 with the summit plume). Shoot in the morning — the light comes from the east,

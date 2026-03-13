@@ -47,7 +47,7 @@ with sensible shoes rather than the sandals you optimistically packed.
 
 ---
 
-`[INFOGRAPHIC: Historic Centre Walking Map]`
+![Walking map of Catania historic centre](images/historic-centre-walking-map.svg)
 *A clean illustrated map centred on Piazza del Duomo, with walking-time rings
 (5 min / 10 min / 15 min) and key landmarks marked. No driving routes — this
 is a pedestrian map. Landmarks: La Pescheria, Cathedral, Via Etnea, Roman
@@ -103,7 +103,7 @@ The key rules:
 
 ---
 
-`[INFOGRAPHIC: ZTL Zone Map for Central Catania]`
+![ZTL restricted traffic zone map for central Catania](images/catania-ztl-map.svg)
 *A simple diagram showing the ZTL boundary in red, camera positions marked,
 and green approach routes from outside the zone toward the nearest car parks.
 Should include a clear callout: "Stay outside the red line by car." Not a
@@ -243,7 +243,7 @@ become a museum morning + Ortigia afternoon. Actually a great combination.
 
 ---
 
-`[INFOGRAPHIC: Rainy Day Decision Tree]`
+![Rainy day decision tree: what to do based on rain intensity and nap window](images/rainy-day-decision-tree.svg)
 *A simple flowchart: Is it light rain or heavy? Is the toddler awake or in
 nap window? Do you want to stay in the city or drive? Each path leads to 2–3
 specific recommendations. Fun, slightly tongue-in-cheek style — not a grim
@@ -309,7 +309,7 @@ Use both, depending on terrain.
 
 ---
 
-`[INFOGRAPHIC: Historic Centre Stroller Map]`
+![Catania historic centre stroller accessibility map](images/catania-stroller-map.svg)
 *Same base map as Section 3.1, now colour-coded: green streets, amber streets,
 red streets. Clear, simple, honest. The most genuinely practical infographic
 in the guide.*

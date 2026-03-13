@@ -40,7 +40,7 @@ is wrong.
 
 ---
 
-`[INFOGRAPHIC: Sicily at a Glance]`
+![Sicily key facts: area, population, Etna, coastline, provinces](images/sicily-at-a-glance.svg)
 *A clean stats panel alongside a silhouette map of Sicily overlaid on a
 western European outline for scale. Stats to include: area (25,711 km²),
 coastline (1,484 km), population (5 million), highest point (Etna, 3,357 m),
@@ -217,7 +217,7 @@ excellent Norman architecture can replicate.
 
 ---
 
-`[PHOTO: Map or aerial view of Sicily's east coast]`
+![Sicily's eastern coast showing Catania and Mount Etna](images/sicily-east-coast.jpg)
 *Should show: Catania's position on the coast with Etna visible behind it,
 and annotated distances to the main day trips — Etna (30 km), Taormina (50 km),
 Syracuse (60 km), Aci Trezza (15 km). Clean graphic style, could be a
