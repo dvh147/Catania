@@ -4,6 +4,5 @@ Photos sourced from [Wikimedia Commons](https://commons.wikimedia.org). All imag
 
 | File | Author | Licence |
 |---|---|---|
-| catania-elephant-fountain.jpg | Florent Pécassou | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| etna-summit.jpg | NASA | Public domain |
-| syracuse-cathedral-columns.jpg | Giovanni Dall'Orto. | Attribution |
+| catania-baroque-church.jpg | Giovanni Dall'Orto | Attribution |
+| catania-pescheria.jpg | Lucarelli | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
