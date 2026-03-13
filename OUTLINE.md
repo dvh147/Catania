@@ -1,8 +1,16 @@
 # Catania Travel Guide — Detailed Chapter Outline
 
-**For:** Family (2 adults + toddler) · One week · Car rental · March 2026
+**For:** Family (2 adults + toddler) · One week · Car already rented · March 2026
+**Accommodation:** Staying in / very close to the historic centre
 **Style:** Personal, fun, medium historical depth
 **Format:** Printable booklet
+
+### Known conditions
+- Car is already rented — no need for rental advice; focus on parking, ZTL zones,
+  and day-trip driving instead
+- Staying in the historic centre — city exploration is on foot; car used only
+  for day trips
+- Some rain expected — rainy-day alternatives needed throughout
 
 > This is the working outline. Read through, leave comments, cross things out,
 > ask for more — then we write it section by section.
@@ -130,43 +138,70 @@ Granita = Arab sherbet tradition. Food as archaeology.
 ## CHAPTER 3 — Your Base: Practical Catania
 
 *The goal: take the logistics anxiety away. Read this before you arrive.*
+*Note: car is already rented — no rental advice needed. Focus is on living
+out of the historic centre on foot, with the car parked and used only for
+day trips.*
 
 ### 3.1 Getting Your Bearings
-- Catania is smaller than it looks — the historic centre is walkable
-- The airport (Fontanarossa) is 5km from the city centre — one of the best-
-  positioned airports in Italy
-- The car: essential for day trips, a mild headache in the city itself
-- **[INFOGRAPHIC]** Simple map: airport → hotel zone → historic centre key
-  landmarks, distances
+- Catania is smaller than it looks — the historic centre is very walkable,
+  and staying central means the market, the cathedral, the baroque set pieces
+  are all within 10–15 minutes on foot
+- The airport (Fontanarossa) is 5km from the city centre — easy arrival
+- **[INFOGRAPHIC]** Walking map of the historic centre: your base → key
+  landmarks with walking times (not driving distances)
 
-### 3.2 Car Rental Survival Guide
-- Pick up tips: what to photograph before you drive away (every scratch)
-- Sicilian driving culture: an honest briefing — assertive, non-aggressive,
-  rules are suggestions
-- ZTL zones (Limited Traffic Zones) in Catania: what they are, how to avoid
-  an automatic fine, which streets to avoid driving on
-- Parking: where to park safely, best car parks near the historic centre
-- **[INFOGRAPHIC]** ZTL zone diagram for central Catania
+### 3.2 The Car: Park It and Mostly Forget It
+- The car is for day trips. Driving in central Catania is unnecessary and
+  stressful — park it once and leave it until you need it
+- **ZTL zones (Limited Traffic Zones):** what they are, how automatic cameras
+  fine you silently weeks later, which streets to absolutely avoid driving on
+- Best car parks for historic centre stays: Piazza Borsellino, Villa Bellini
+  area, and a few others — with honest notes on cost and safety
+- Driving to the day trips: what to know for each route (Etna, Taormina,
+  Syracuse, the coast) — tolls, parking at destination, driving culture
+- Sicilian driving: an honest one-paragraph briefing — assertive, non-aggressive,
+  rules are guidelines, roundabouts are a negotiation
+- **[INFOGRAPHIC]** ZTL zone map for central Catania — red zones to avoid,
+  green zones where you can drive to drop bags then park
 
-### 3.3 The Neighbourhoods
-Short character descriptions of the areas you might stay in or pass through:
-- **Historic Centre** — most atmospheric, some noise and bustle, best walking base
-- **Piazza Europa / waterfront area** — more modern, easier parking, less character
-- **Borgo / north of Via Etnea** — residential, quieter, where locals eat
-- Recommendation for families: where to stay and why
+### 3.3 Living in the Historic Centre
+- What your immediate neighbourhood offers on foot: the market, bars, the
+  best pasticcerie, pharmacies, supermarkets
+- The sounds and rhythms of a central Catania stay: the market in the morning,
+  the passeggiata in the evening, the mopeds at all hours
+- Where to buy water, snacks, and picnic supplies (essential for day trips)
+- Best supermarkets within walking distance of the centre
 
-### 3.4 Getting Around Day-to-Day
-- When to use the car vs. walking vs. taxi
-- Parking near the market and cathedral area
-- Apps to use: Google Maps works fine; parking apps; ferry/Etna cable car booking
-- **[BUDGET TIP]** Parking in the city vs. paying for tours that include transport
+### 3.4 Rainy Day Catania
+March brings some rain — not constant, but real. These are the best options
+when the sky closes in:
+- **Benedictine Monastery tour** — indoor, spectacular, genuinely fascinating
+- **Castello Ursino museum** — dark and quiet; toddler verdict: depends on nap schedule
+- **A long breakfast at a good bar** — underrated as a rainy morning activity;
+  order everything on the pastry shelf and take your time
+- **The covered section of the fish market** — La Pescheria has a partially
+  covered area; a rainy morning still works, and the light is actually better
+- **Palazzo Biscari** — the finest private baroque palace in Catania, tours
+  available; check opening schedule
+- **Cinema or theatre** — surprisingly good option if the toddler is with a
+  grandparent or partner for an hour; Catania has a real cultural calendar
+- **Drive to a rainy day destination:** Syracuse's Ortigia is beautiful in the
+  rain (the stone glows); the Monasteries of Palazzolo Acreide are worth a wet
+  drive; indoor archaeological museums hold up well
+- **[INFOGRAPHIC]** Rainy day decision tree: toddler awake/asleep × light rain/
+  heavy rain × stay in city/willing to drive
 
 ### 3.5 Toddler Logistics
-- Where to find pharmacies, baby supplies, nappy-changing facilities
-- Best supermarkets for stocking up (picnic supplies, snacks, water)
-- Hospital / medical: where to go if needed
-- **[STROLLER NOTE]** Summary of which central Catania areas are pushchair-friendly
-  and which are best walked without
+- Pharmacies: green cross, open long hours; locations near the historic centre
+- Baby supplies: supermarkets stock nappies, formula, wipes — no need to
+  over-pack
+- Nappy changing: rarely signposted; best options are café bathrooms (order
+  something first), the cathedral, and your hotel
+- Medical: the main hospital (Ospedale Garibaldi Centro) is walkable from the
+  historic centre; EU EHIC card is your friend
+- **[STROLLER NOTE]** The definitive historic centre stroller map: Piazza del
+  Duomo and Via Etnea — green. La Pescheria and side streets — amber/red.
+  Via dei Crociferi and lava-cobbled lanes — bring a carrier as backup
 
 ---
 
@@ -186,10 +221,12 @@ reference the relevant chapter for detail.*
 - **Stroller rating, budget rating, exertion level**
 
 ### Day 1 — Arrive & Settle Into Catania
-- Airport → car → check in → gentle introduction to the city
-- Piazza del Duomo walk, elephant fountain, sitting at a café
+- Airport → drive to historic centre → check in (car parked for the week)
+- Walk to Piazza del Duomo, elephant fountain, sitting at a café
 - First granita (this is a moment)
-- Easy dinner near the hotel — no heroics on day one
+- Easy dinner within walking distance — no heroics on day one
+- **Rain version:** same plan — Piazza del Duomo is still beautiful in the
+  rain, and a café stop is even more appealing
 - *Mood: slow, orientation, arrival*
 
 ### Day 2 — Deep Catania
@@ -202,12 +239,18 @@ reference the relevant chapter for detail.*
 - Early start, cable car or guided excursion
 - Pack layers — it's cold up top regardless of season
 - Back in Catania by late afternoon
+- **Rain version:** Etna in cloud is a non-starter; if the forecast is bad,
+  swap to Castello Ursino + Benedictine Monastery + long lunch indoors, and
+  push Etna to a clearer day
 - *Mood: adventure / iconic*
 
 ### Day 4 — Coast Day (Aci Trezza / Aci Castello)
-- 20 mins south of Catania by car
+- 20 mins from the historic centre by car
 - Easy beach day, castle, volcanic rock pools, toddler-friendly beaches
 - Lunch at a seafront trattoria
+- **Rain version:** Aci Castello is worth visiting in light rain (the castle
+  over the sea looks dramatic); beach obviously skipped; replace with a
+  drive further north to Acireale (beautiful baroque town, good pasticceria)
 - *Mood: relaxed, restorative*
 
 ### Day 5 — Taormina
@@ -215,6 +258,9 @@ reference the relevant chapter for detail.*
 - Greek theatre in the morning before the crowds
 - Lunch and gelato, explore the corso
 - Back before late afternoon to avoid traffic
+- **Rain version:** Taormina in light rain is actually lovely — fewer tourists,
+  the view from the theatre is moody, the Corso is navigable under umbrellas.
+  Heavy rain: postpone and swap with the Benedictine Monastery day instead
 - *Mood: spectacular, slightly more touristy, worth it*
 
 ### Day 6 — Syracuse & Ortigia
@@ -223,6 +269,10 @@ reference the relevant chapter for detail.*
   Dionysius) in the morning
 - Cross to Ortigia island for lunch and afternoon wander
 - Cathedral, Arethusa fountain, aperitivo by the sea
+- **Rain version:** Ortigia is genuinely excellent in the rain — the stone
+  streets, the cathedral, the covered market. Skip or shorten the open-air
+  Neapolis park if it's heavy; replace with the Paolo Orsi Archaeological
+  Museum (world-class, completely indoors, next to the park)
 - *Mood: the big one — most culturally rich day*
 
 ### Day 7 — Slow Last Day in Catania
