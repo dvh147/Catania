@@ -829,14 +829,18 @@ def wikimedia_search(query, limit=12):
 def wikimedia_imageinfo(title):
     try:
         data = _api_get({"action":"query","titles":title,"prop":"imageinfo",
-                         "iiprop":"url|extmetadata","format":"json"})
+                         "iiprop":"url|extmetadata","iiurlwidth":"1280",
+                         "format":"json"})
         for page in data.get("query",{}).get("pages",{}).values():
             ii = page.get("imageinfo",[{}])[0]
             meta = ii.get("extmetadata",{})
             author = re.sub(r"<[^>]+>","",meta.get("Artist",{}).get("value","Unknown")).strip()
             lic    = meta.get("LicenseShortName",{}).get("value","")
             licurl = meta.get("LicenseUrl",{}).get("value","")
-            return ii.get("url",""), author, lic, licurl
+            # Prefer thumbnail URL (1280px) to avoid 429 rate limits on originals
+            thumb_url = ii.get("thumburl", "")
+            orig_url = ii.get("url", "")
+            return thumb_url or orig_url, author, lic, licurl
     except Exception as e:
         print(f"    imageinfo error: {e}")
     return None, None, None, None
@@ -873,7 +877,7 @@ def fetch_photo(info, dry_run=False):
                 continue
             dest.write_bytes(data)
             print(f"    saved: {info['file']} ({len(data)//1024}KB)")
-            time.sleep(0.6)
+            time.sleep(1.5)
             return True, author, lic, licurl
         except Exception as e:
             print(f"    download error: {e}")
@@ -885,7 +889,7 @@ def fetch_photo(info, dry_run=False):
 # Markdown updater
 # ══════════════════════════════════════════════════════════════════════════════
 def update_markdown(path, dry_run=False):
-    text = path.read_text()
+    text = path.read_text(encoding="utf-8")
     changed = False
 
     for placeholder, info in INFOGRAPHICS.items():
@@ -903,7 +907,7 @@ def update_markdown(path, dry_run=False):
             print(f"    photo: {info['file']} → {path.name}")
 
     if changed and not dry_run:
-        path.write_text(text)
+        path.write_text(text, encoding="utf-8")
     return changed
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -928,7 +932,7 @@ def main():
             dest = IMAGES_DIR / info["file"]
             print(f"  {info['file']}")
             if not dry_run:
-                dest.write_text(info["gen"]())
+                dest.write_text(info["gen"](), encoding="utf-8")
         print()
 
     # 2. Fetch photos
@@ -950,7 +954,7 @@ def main():
             for fname, d in attribution.items():
                 lic_md = f"[{d['license']}]({d['license_url']})" if d["license_url"] else d["license"]
                 attr_lines.append(f"| {fname} | {d['author']} | {lic_md} |\n")
-            (IMAGES_DIR / "ATTRIBUTION.md").write_text("".join(attr_lines))
+            (IMAGES_DIR / "ATTRIBUTION.md").write_text("".join(attr_lines), encoding="utf-8")
             print(f"\n  Wrote images/ATTRIBUTION.md")
         print()
 
